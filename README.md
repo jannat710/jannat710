@@ -1,5 +1,5 @@
 
-<div>
+
 <img width="100%" src="https://github.com/jannat710/jannat710/blob/main/images/banner.png">
 <h2 align="center">👧About Me</h2>
 <br/>
@@ -22,16 +22,29 @@
   </a>
 </p>
 
+
 <div>
- <h2 align="center">🔥 projects 🔥</h2> 
-<br/>
-
-  
+  <h2 align="center">🔥 Projects 🔥</h2>
+  <br/>
+    <h2>Food And Beverage</h2>
+    <a href="https://food-beverage-eaa3c.web.app/">Live Link</a>
 </div>
+<div>
+    <h2>Clothing Swap</h2>
+    <a href="https://clothing-swap-7d54d.web.app/">Live Link</a>
+</div>
+<div>
+    <h2>News Flash</h2>
+    <a href="https://news-flash-3cb70.web.app/">Live Link</a>
+</div>
+    
 
+<div>
+    
  <h2 align="center">⚡ GitHub Profile Summary ⚡</h2>
 <br/>
- </div>
+</div>
+
 <div align="center">
  <img width="98%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jannat710&theme=midnight_purple"> 
  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jannat710&theme=midnight_purple">
