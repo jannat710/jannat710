@@ -27,7 +27,20 @@
   <h2 align="center">🔥 Projects 🔥</h2>
   <br/>
     <h2>Food And Beverage</h2>
-    <a href="https://food-beverage-eaa3c.web.app/">Live Link</a>
+    <h3>Features</h3>
+  <ul>
+    <li>Responsive Food Website design using TailwindCSS, Javascript, React, firebase, react router, node js, express, mongodb etc.</li>
+    <li>Secure user authentication and authorization using Firebase Authentication</li>
+    <li>User-friendly alerts using Sweet Alert to notify users of important information or actions.</li>
+    <li>Attractive Gallery section using React marquee component .</li>
+    <li>Toggle dark and light theme</li>
+  </ul>
+  <h3>Technologies</h3>
+    <p>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,vscode,powershell,js,mongodb,nodejs,react,vercel,vite,tailwind,firebase,express" />
+    </a>
+    </p>
 </div>
 <div>
     <h2>Clothing Swap</h2>
