@@ -1,15 +1,20 @@
-## hi
-
 
 <div>
 <img width="100%" src="https://github.com/jannat710/jannat710/blob/main/images/banner.png">
-
-  <h2 align="center">👧About Me</h2>
+<h2 align="center">👧About Me</h2>
 <br/>
 <p align="center">
   👋 Hi there! I'm Jannatul Ferdous, a passionate Frontend Web Developer with expertise in ReactJS and TailwindCSS. I love building beautiful and user-friendly interfaces that bring ideas to life.
  </>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
+<div align="center">
+<h2 align="center">🔥 My Current Stats ⚒🔥</h2>
+<br/>
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=jannat710&theme=midnight-purple&card_width=500">
+</div>
+
+  
+<h2 align="center">⚒️ Languages Frameworks Tools ⚒️</h2>
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
