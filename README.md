@@ -1,5 +1,12 @@
 ## hi
 <div>
+
+## Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,vscode,powershell,js,mongodb,nextjs,netlify,nodejs,react,vercel,vite,tailwind,css,firebase,bootstrap,express,figma&theme" />
+  </a>
+</p>
  
  ## GitHub Profile Summary
  </div>
