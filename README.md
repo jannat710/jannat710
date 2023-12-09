@@ -8,19 +8,27 @@
  </>
 
 <div align="center">
-<h2 align="center">🔥 My Current Stats ⚒🔥</h2>
+<h2 align="center">🚀 My Current Stats ⚒ 🚀</h2>
 <br/>
   <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=jannat710&theme=midnight-purple&card_width=500">
 </div>
 
   
-<h2 align="center">⚒️ Languages Frameworks Tools ⚒️</h2>
+<h2 align="center">⚒️ Technologies & Tools ⚒️</h2>
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,vscode,powershell,js,mongodb,nextjs,netlify,nodejs,react,vercel,vite,tailwind,css,firebase,bootstrap,express,figma&theme" />
   </a>
 </p>
+
+<div>
+ <h2 align="center">🔥 projects 🔥</h2> 
+<br/>
+
+  
+</div>
+
  <h2 align="center">⚡ GitHub Profile Summary ⚡</h2>
 <br/>
  </div>
