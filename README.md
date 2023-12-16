@@ -4,7 +4,8 @@
 <h2 align="center">👧About Me</h2>
 <br/>
 <p align="center">
-  👋 Hi there! I'm Jannatul Ferdous, a passionate Frontend Web Developer with expertise in ReactJS and TailwindCSS. I love building beautiful and user-friendly interfaces that bring ideas to life.
+  👋 Hi there! I'm Jannatul Ferdous, a passionate Frontend Web Developer with expertise in ReactJS and TailwindCSS. I'm always motivated to learn new technologies to stay
+updated in this constantly changing field. I love to code and fix problems.
  </>
 
 <div align="center">
