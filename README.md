@@ -1,6 +1,6 @@
 
 
-<img width="100%" src="https://github.com/jannat710/jannat710/blob/main/images/banner.png">
+<img width="100%" src="https://github.com/jannat710/jannat710/blob/main/assets/Screenshot.png">
 <h2 align="center">👧About Me</h2>
 <br/>
 <p align="center">
