@@ -1,6 +1,6 @@
 <div>
 
-<img width="100%" src="https://github.com/jannat710/jannat710/blob/main/assets/Screenshot.png">
+<img width="100%" src="https://github.com/jannat710/jannat710/blob/main/assets/banner%20(2).png">
 <h2 align="center">👧About Me</h2>
 <br/>
 <p align="center">
