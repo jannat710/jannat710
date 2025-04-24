@@ -2,28 +2,48 @@
   <img width="100%" src="https://github.com/jannat710/jannat710/blob/main/assets/jannat-banner.png" alt="Banner" />
 </div>
 
-<h2 align="center">👩‍💻 About Me</h2>
+<h2 align="center">👧 About Me</h2>
 
 <p align="center">
-  Hey there! I'm <strong>Jannatul Ferdous</strong> – a passionate <strong>Frontend Developer</strong> who thrives on building visually striking and performant web applications. 
-  Skilled in <strong>React, TailwindCSS, TypeScript</strong>, and now diving deeper into state management with <strong>Redux Toolkit</strong>. I’m always up for a challenge and love solving real-world problems with clean, scalable code.
+  👋 Hi there! I'm <strong>Jannatul Ferdous</strong>, a passionate Frontend Web Developer with expertise in <strong>React.js</strong> and <strong>TailwindCSS</strong>. I'm constantly exploring new technologies to stay ahead in this dynamic tech space. I enjoy solving real-world problems and building clean, scalable UIs.
 </p>
 
 ---
 
-<h2 align="center">🚀 My Current Stats ⚒️</h2>
+<h2 align="center">📫 Let's Connect!</h2>
+
+<p align="center">
+  <a href="mailto:jannatul0040@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jannatul38/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/jannat710">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://jannatul-ferdous-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</p>
+
+---
+
+<p align="center"><i>“Keep learning, keep coding, and always stay curious!”</i></p>
+
+<h2 align="center">🚀 My Current Stats ⚒</h2>
 
 <div align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=jannat710&theme=midnight-purple&card_width=500" />
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=jannat710&theme=midnight-purple&card_width=500" alt="Streak Stats">
 </div>
 
 ---
 
-<h2 align="center">🧰 Tech Stack & Tools</h2>
+<h2 align="center">⚒️ Technologies & Tools ⚒️</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,redux,tailwind,html,css,js,nodejs,express,mongodb,firebase,vite,vercel,netlify,vscode,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,express,mongodb,firebase,redux,vscode,vercel,netlify,figma&theme=light" />
   </a>
 </p>
 
@@ -31,40 +51,51 @@
 
 <h2 align="center">🔥 Featured Projects 🔥</h2>
 
-### 🍔 Food & Beverage
-**[Live Site](https://food-beverage-eaa3c.web.app/)**  
-A visually rich and responsive food service website built with modern technologies.
-
-- 🔒 Secure auth using Firebase
-- 🎨 Gallery section with React Marquee
-- 🌘 Dark/Light toggle theme
-- ⚛️ Tech: React, Tailwind, Firebase, Node, Express, MongoDB
-
----
-
-### 👕 Clothing Swap
-**[Live Site](https://clothing-swap-7d54d.web.app/)**  
-A stylish platform for swapping clothes with others.
-
-- 📝 Modern UI with Swiper, React Simple Typewriter, Ratings
-- ⚛️ SweetAlert for interactions
-- 📱 Fully responsive
-- ⚛️ Tech: React, Tailwind, Firebase, MongoDB, Express
+### 🍕 Food and Beverage  
+🔗 [Live Link](https://food-beverage-eaa3c.web.app/)  
+**Features:**
+- Responsive design using TailwindCSS, React, Node.js, MongoDB, Firebase
+- Secure Auth with Firebase
+- User notifications via SweetAlert
+- Light/Dark theme toggle  
+**Tech Used:**  
+<img src="https://skillicons.dev/icons?i=react,tailwind,js,nodejs,mongodb,firebase,express" />
 
 ---
 
-### 📰 News Flash
-**[Live Site](https://news-flash-3cb70.web.app/)**  
-A dynamic news portal with breaking news animations and role-based dashboards.
-
-- 🔔 Alerts using Sweet Alert
-- 🧑‍💼 Dashboard for Users & Admins
-- 🗞️ Typing effects for news
-- ⚛️ Tech: React, Tailwind, Firebase, Express, MongoDB
+### 👕 Clothing Swap  
+🔗 [Live Link](https://clothing-swap-7d54d.web.app/)  
+**Features:**
+- Responsive layout with TailwindCSS + React
+- Typewriter, rating & slider effects
+- SweetAlert for UX feedback  
+**Tech Used:**  
+<img src="https://skillicons.dev/icons?i=react,tailwind,js,express,mongodb,firebase" />
 
 ---
 
-<h2 align="center">📊 GitHub Stats Summary</h2>
+### 📰 News Flash  
+🔗 [Live Link](https://news-flash-3cb70.web.app/)  
+**Features:**
+- Breaking news animations using Moment & Typewriter
+- Role-based dashboards (Admin/User)
+- CRUD with alerts  
+**Tech Used:**  
+<img src="https://skillicons.dev/icons?i=react,tailwind,js,express,mongodb,firebase" />
+
+---
+
+<h2 align="center">📦 Tech I'm Exploring</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ReduxToolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+</p>
+
+---
+
+<h2 align="center">⚡ GitHub Profile Summary ⚡</h2>
 
 <div align="center">
   <img width="98%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jannat710&theme=midnight_purple">
@@ -76,18 +107,4 @@ A dynamic news portal with breaking news animations and role-based dashboards.
 
 ---
 
-<h2 align="center">📫 Let's Connect!</h2>
-
-<p align="center">
-  <a href="mailto:jannatul.dev@gmail.com">📧 Email</a> |
-  <a href="https://linkedin.com/in/jannat710">🔗 LinkedIn</a> |
-  <a href="https://github.com/jannat710">🐱 GitHub</a>
-</p>
-
----
-
-<p align="center"><i>“Keep learning, keep coding, and always stay curious!”</i></p>
-
-
-
-
+<p align="center">💻 Built with ❤️ by Jannatul Ferdous</p>
