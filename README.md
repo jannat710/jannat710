@@ -24,9 +24,17 @@ A passionate <strong>Frontend Developer</strong> who loves creating beautiful an
 <h3 align="center">⚒️ Tech Stack</h3>
 
 <p align="center">
+  <!-- Skillicons-supported icons -->
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,express,mongodb,mongoose,firebase,nextauth,redux,git,vscode,vercel,netlify,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,express,mongodb,firebase,redux,vscode,vercel,netlify,figma" />
   </a>
+</p>
+
+<p align="center">
+  <!-- Custom badges for unsupported techs -->
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
+  <img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextAuth.js" />
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
 </p>
 
 <h3 align="center">🚀 GitHub Stats</h3>
