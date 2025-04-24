@@ -54,36 +54,48 @@
 
 <h3 align="center">🔥 Featured Projects</h3>
 
-<p align="center"><strong>🍕 Food and Beverage</strong><br/>
-🔗 <a href="https://food-beverage-eaa3c.web.app/">Live Site</a></p>
+<!-- 🍕 Food and Beverage -->
+<h4>🍕 <strong>Food and Beverage</strong></h4>
+<p>🔗 <a href="https://food-beverage-eaa3c.web.app/">Live Site</a></p>
+
+<p><strong>Highlights:</strong></p>
 <ul>
   <li>Responsive design with TailwindCSS & React</li>
   <li>Authentication with Firebase, backend in Node.js</li>
-  <li>Sweet Alerts, light/dark theme toggle</li>
+  <li>Sweet Alerts & light/dark theme toggle</li>
 </ul>
-<p><img src="https://skillicons.dev/icons?i=react,tailwind,js,nodejs,mongodb,firebase,express" /></p>
 
-<hr/>
+<p><strong>Tech Stack:</strong> <code>React</code>, <code>TailwindCSS</code>, <code>JavaScript</code>, <code>Node.js</code>, <code>MongoDB</code>, <code>Firebase</code>, <code>Express.js</code></p>
 
-<p align="center"><strong>👕 Clothing Swap</strong><br/>
-🔗 <a href="https://clothing-swap-7d54d.web.app/">Live Site</a></p>
+<hr />
+
+<!-- 👕 Clothing Swap -->
+<h4>👕 <strong>Clothing Swap</strong></h4>
+<p>🔗 <a href="https://clothing-swap-7d54d.web.app/">Live Site</a></p>
+
+<p><strong>Highlights:</strong></p>
 <ul>
-  <li>UI built with React & TailwindCSS</li>
+  <li>React UI with CSS enhancements</li>
   <li>Marquee slider, rating system, sweet alerts</li>
-  <li>Packages used: react-typewriter, swiper etc.</li>
+  <li>Used: react-typewriter, Swiper, and more</li>
 </ul>
-<p><img src="https://skillicons.dev/icons?i=react,tailwind,js,express,mongodb,firebase" /></p>
 
-<hr/>
+<p><strong>Tech Stack:</strong> <code>React</code>, <code>TailwindCSS</code>, <code>JavaScript</code>, <code>Express.js</code>, <code>MongoDB</code>, <code>Firebase</code></p>
 
-<p align="center"><strong>📰 News Flash</strong><br/>
-🔗 <a href="https://news-flash-3cb70.web.app/">Live Site</a></p>
+<hr />
+
+<!-- 📰 News Flash -->
+<h4>📰 <strong>News Flash</strong></h4>
+<p>🔗 <a href="https://news-flash-3cb70.web.app/">Live Site</a></p>
+
+<p><strong>Highlights:</strong></p>
 <ul>
-  <li>Breaking news UI with Moment.js and Typewriter</li>
-  <li>Separate dashboards for user and admin</li>
-  <li>Full CRUD, responsive, sweet alerts</li>
+  <li>Breaking news with Moment.js & Typewriter</li>
+  <li>Role-based Dashboard</li>
+  <li>Full CRUD, sweet alerts, responsive design</li>
 </ul>
-<p><img src="https://skillicons.dev/icons?i=react,tailwind,js,express,mongodb,firebase" /></p>
+
+<p><strong>Tech Stack:</strong> <code>React</code>, <code>TailwindCSS</code>, <code>JavaScript</code>, <code>Express.js</code>, <code>MongoDB</code>, <code>Firebase</code></p>
 
 ---
 
