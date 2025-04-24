@@ -25,7 +25,7 @@ A passionate <strong>Frontend Developer</strong> who loves creating beautiful an
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,express,mongodb,firebase,redux,vscode,vercel,netlify,figma" />
+   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,express,mongodb,mongoose,firebase,nextauth,redux,git,vscode,vercel,netlify,figma" />
   </a>
 </p>
 
