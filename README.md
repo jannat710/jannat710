@@ -1,102 +1,92 @@
-<div>
-
-<img width="100%" src="https://github.com/jannat710/jannat710/blob/main/assets/jannat-banner.png">
-<h2 align="center">👧About Me</h2>
-<br/>
-<p align="center">
-  👋 Hi there! I'm Jannatul Ferdous, a passionate Frontend Web Developer with expertise in ReactJS and TailwindCSS. I'm always motivated to learn new technologies to stay
-updated in this constantly changing field. I love to code and fix problems.
- </>
-
 <div align="center">
-<h2 align="center">🚀 My Current Stats ⚒ 🚀</h2>
-<br/>
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=jannat710&theme=midnight-purple&card_width=500">
+  <img width="100%" src="https://github.com/jannat710/jannat710/blob/main/assets/jannat-banner.png" alt="Banner" />
 </div>
 
-  
-<h2 align="center">⚒️ Technologies & Tools ⚒️</h2>
-<br/>
+<h2 align="center">👩‍💻 About Me</h2>
+
+<p align="center">
+  Hey there! I'm <strong>Jannatul Ferdous</strong> – a passionate <strong>Frontend Developer</strong> who thrives on building visually striking and performant web applications. 
+  Skilled in <strong>React, TailwindCSS, TypeScript</strong>, and now diving deeper into state management with <strong>Redux Toolkit</strong>. I’m always up for a challenge and love solving real-world problems with clean, scalable code.
+</p>
+
+---
+
+<h2 align="center">🚀 My Current Stats ⚒️</h2>
+
+<div align="center">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=jannat710&theme=midnight-purple&card_width=500" />
+</div>
+
+---
+
+<h2 align="center">🧰 Tech Stack & Tools</h2>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,vscode,powershell,js,mongodb,nextjs,netlify,nodejs,react,vercel,vite,tailwind,css,firebase,bootstrap,express,figma&theme" />
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,redux,tailwind,html,css,js,nodejs,express,mongodb,firebase,vite,vercel,netlify,vscode,figma&theme=light" />
   </a>
 </p>
 
+---
 
+<h2 align="center">🔥 Featured Projects 🔥</h2>
 
-<div>
-  <h2 align="center">🔥 Projects 🔥</h2>
-  <br/>
-    <h2>Food And Beverage</h2>
-     <a href="https://food-beverage-eaa3c.web.app/">Live Link</a>
-    <h3>Features</h3>
-  <ul>
-    <li>Responsive Food Website design using TailwindCSS, Javascript, React, firebase, react router, node js, express, mongodb etc.</li>
-    <li>Secure user authentication and authorization using Firebase Authentication</li>
-    <li>User-friendly alerts using Sweet Alert to notify users of important information or actions.</li>
-    <li>Attractive Gallery section using React marquee component .</li>
-    <li>Toggle dark and light theme</li>
-  </ul>
-  <h3>Technologies</h3>
-    <p>
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,vscode,powershell,js,mongodb,nodejs,react,vercel,vite,tailwind,firebase,express" />
-    </a>
-    </p>
-</div>
-<div>
-    <h2>Clothing Swap</h2>
-    <a href="https://clothing-swap-7d54d.web.app/">Live Link</a>
-     <h3>Features</h3>
-  <ul>
-    <li>Responsive Clothing Swap website design using Css, Javascript, React, firebase, react router, node, express, mongodb etc.</li>
-    <li>Attractive view gallery section using react marquee slider.</li>
-    <li>Used new packages like react-simple-typewriter,react rating,swiper slider and may more.</li>
-    <li>Services Card Design</li>
-    <li>Used Sweet Alert</li>
-  </ul>
-    <h3>Technologies</h3>
-    <p>
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,vscode,powershell,js,mongodb,nodejs,react,vercel,vite,tailwind,firebase,express" />
-    </a>
-    </p>
-</div>
-<div>
-    <h2>News Flash</h2>
-    <a href="https://news-flash-3cb70.web.app/">Live Link</a>
-     <h3>Features</h3>
-    <ul>
-    <li>Responsive Newspaper website design using Css, Javascript, React, firebase, react router, node, express, mongodb etc.</li>
-    <li>Attractive breaking news section using react moment and react-simple-typewriter.</li>
-    <li>Seperate dashboard layout for user and admin .</li>
-    <li>Used sweet alerts on all the crud operation ,login,logout success or error messages .</li>
-    <li>This website is more user friendly and easy to use .</li>
-  </ul>
-    <h3>Technologies</h3>
-    <p>
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,vscode,powershell,js,mongodb,nodejs,react,vercel,vite,tailwind,firebase,express" />
-    </a>
-    </p>
-</div>
-    
+### 🍔 Food & Beverage
+**[Live Site](https://food-beverage-eaa3c.web.app/)**  
+A visually rich and responsive food service website built with modern technologies.
 
-<div>
-    
- <h2 align="center">⚡ GitHub Profile Summary ⚡</h2>
-<br/>
-</div>
+- 🔒 Secure auth using Firebase
+- 🎨 Gallery section with React Marquee
+- 🌘 Dark/Light toggle theme
+- ⚛️ Tech: React, Tailwind, Firebase, Node, Express, MongoDB
+
+---
+
+### 👕 Clothing Swap
+**[Live Site](https://clothing-swap-7d54d.web.app/)**  
+A stylish platform for swapping clothes with others.
+
+- 📝 Modern UI with Swiper, React Simple Typewriter, Ratings
+- ⚛️ SweetAlert for interactions
+- 📱 Fully responsive
+- ⚛️ Tech: React, Tailwind, Firebase, MongoDB, Express
+
+---
+
+### 📰 News Flash
+**[Live Site](https://news-flash-3cb70.web.app/)**  
+A dynamic news portal with breaking news animations and role-based dashboards.
+
+- 🔔 Alerts using Sweet Alert
+- 🧑‍💼 Dashboard for Users & Admins
+- 🗞️ Typing effects for news
+- ⚛️ Tech: React, Tailwind, Firebase, Express, MongoDB
+
+---
+
+<h2 align="center">📊 GitHub Stats Summary</h2>
 
 <div align="center">
- <img width="98%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jannat710&theme=midnight_purple"> 
- <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jannat710&theme=midnight_purple">
- <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jannat710&theme=midnight_purple">
- <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jannat710&theme=midnight_purple">
- <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jannat710&theme=midnight_purple&utcOffset=8">
- </div>
- </div>
+  <img width="98%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jannat710&theme=midnight_purple">
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jannat710&theme=midnight_purple">
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jannat710&theme=midnight_purple">
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jannat710&theme=midnight_purple">
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jannat710&theme=midnight_purple&utcOffset=8">
+</div>
+
+---
+
+<h2 align="center">📫 Let's Connect!</h2>
+
+<p align="center">
+  <a href="mailto:jannatul.dev@gmail.com">📧 Email</a> |
+  <a href="https://linkedin.com/in/jannat710">🔗 LinkedIn</a> |
+  <a href="https://github.com/jannat710">🐱 GitHub</a>
+</p>
+
+---
+
+<p align="center"><i>“Keep learning, keep coding, and always stay curious!”</i></p>
 
 
 
