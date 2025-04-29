@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://github.com/jannat710/jannat710/blob/main/assets/jannat-banner.png" alt="Banner" />
+  <img width="100%" src="https://github.com/jannat710/jannat710/blob/main/images/black-banner.png" alt="Banner" />
 </div>
 
 <h2 align="center">👋 Hey, I'm Jannatul Ferdous</h2>
