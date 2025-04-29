@@ -9,6 +9,8 @@
   I'm always motivated to learn new technologies and enjoy solving real-world problems with code.
 </p>
 
+---
+
 <h3 align="center">📫 Let's Connect</h3>
 
 <p align="center">
