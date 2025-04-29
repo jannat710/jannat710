@@ -18,10 +18,15 @@
   <a href="https://linkedin.com/in/jannatul38">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/jannat710">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
+
+---
+
+<div align="center">
+<h2 align="center">🚀 My Current Stats ⚒ 🚀</h2>
+<br/>
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=toymurrahman&theme=midnight-purple&card_width=500">
+</div>
 
 ---
 
