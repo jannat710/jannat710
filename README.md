@@ -26,8 +26,7 @@
 
 <div align="center">
 <h2 align="center">🚀 My Current Stats ⚒ 🚀</h2>
-<br/>
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=toymurrahman&theme=midnight-purple&card_width=500">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=jannat710&theme=midnight-purple&card_width=500">
 </div>
 
 ---
