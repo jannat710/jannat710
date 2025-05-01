@@ -91,4 +91,103 @@
   <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jannat710&theme=midnight_purple&utcOffset=8" />
 </p>
 
+---
+
+
+<h3 align="center">Team projects</h3>
+<table align="center">
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/rajib-sadhu/basa-finder-client"><b>BasaFinder</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/rajib-sadhu/basa-finder-client?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/rajib-sadhu/basa-finder-client?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/rajib-sadhu/basa-finder-client?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rajib-sadhu/basa-finder-client?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/Hamed18/BikeZone"><b>BikeZone</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Hamed18/BikeZone?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Hamed18/BikeZone?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Hamed18/BikeZone?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Hamed18/BikeZone?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Reduan4u/QuickFit-Client"><b>QuickFit</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Reduan4u/QuickFit-Client?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Reduan4u/QuickFit-Client?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Reduan4u/QuickFit-Client?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Reduan4u/QuickFit-Client?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
+
+---
+
+
+<h3 align="center">🔥 Featured Projects</h3>
+
+
+<!-- 🍕 Food and Beverage -->
+<h4>🍕 <strong>Food and Beverage</strong></h4>
+<p>🔗 <a href="https://food-beverage-eaa3c.web.app/">Live Site</a></p>
+
+
+<p><strong>Highlights:</strong></p>
+<ul>
+  <li>Responsive design with TailwindCSS & React</li>
+  <li>Authentication with Firebase, backend in Node.js</li>
+  <li>Sweet Alerts & light/dark theme toggle</li>
+</ul>
+
+
+<p><strong>Tech Stack:</strong> <code>React</code>, <code>TailwindCSS</code>, <code>JavaScript</code>, <code>Node.js</code>, <code>MongoDB</code>, <code>Firebase</code>, <code>Express.js</code></p>
+
+
+<hr />
+
+
+<!-- 👕 Clothing Swap -->
+<h4>👕 <strong>Clothing Swap</strong></h4>
+<p>🔗 <a href="https://clothing-swap-7d54d.web.app/">Live Site</a></p>
+
+
+<p><strong>Highlights:</strong></p>
+<ul>
+  <li>React UI with CSS enhancements</li>
+  <li>Marquee slider, rating system, sweet alerts</li>
+  <li>Used: react-typewriter, Swiper, and more</li>
+</ul>
+
+
+<p><strong>Tech Stack:</strong> <code>React</code>, <code>TailwindCSS</code>, <code>JavaScript</code>, <code>Express.js</code>, <code>MongoDB</code>, <code>Firebase</code></p>
+
+
+<hr />
+
+
+<!-- 📰 News Flash -->
+<h4>📰 <strong>News Flash</strong></h4>
+<p>🔗 <a href="https://news-flash-3cb70.web.app/">Live Site</a></p>
+
+
+<p><strong>Highlights:</strong></p>
+<ul>
+  <li>Breaking news with Moment.js & Typewriter</li>
+  <li>Role-based Dashboard</li>
+  <li>Full CRUD, sweet alerts, responsive design</li>
+</ul>
+
+
+<p><strong>Tech Stack:</strong> <code>React</code>, <code>TailwindCSS</code>, <code>JavaScript</code>, <code>Express.js</code>, <code>MongoDB</code>, <code>Firebase</code></p>
+
 <p align="center">✨ Thanks for stopping by!</p>
