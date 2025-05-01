@@ -81,19 +81,6 @@
 
 ---
 
-<h3 align="center">📊 GitHub Insights</h3>
-
-<p align="center">
-  <img width="98%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jannat710&theme=midnight_purple" />
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jannat710&theme=midnight_purple" />
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jannat710&theme=midnight_purple" />
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jannat710&theme=midnight_purple" />
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jannat710&theme=midnight_purple&utcOffset=8" />
-</p>
-
----
-
-
 <h3 align="center">Team projects</h3>
 <table align="center">
   <thead align="center">
@@ -130,9 +117,7 @@
   </tbody>
 </table>
 
-
 ---
-
 
 <h3 align="center">🔥 Featured Projects</h3>
 
@@ -189,5 +174,15 @@
 
 
 <p><strong>Tech Stack:</strong> <code>React</code>, <code>TailwindCSS</code>, <code>JavaScript</code>, <code>Express.js</code>, <code>MongoDB</code>, <code>Firebase</code></p>
+
+<h3 align="center">📊 GitHub Insights</h3>
+
+<p align="center">
+  <img width="98%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jannat710&theme=midnight_purple" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jannat710&theme=midnight_purple" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jannat710&theme=midnight_purple" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jannat710&theme=midnight_purple" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jannat710&theme=midnight_purple&utcOffset=8" />
+</p>
 
 <p align="center">✨ Thanks for stopping by!</p>
